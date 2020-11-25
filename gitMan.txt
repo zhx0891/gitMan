@@ -1,0 +1,4 @@
+git config --list
+git init 
+git status
+git remote add origin <link>
