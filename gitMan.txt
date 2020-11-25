@@ -2,3 +2,11 @@ git config --list
 git init 
 git status
 git remote add origin <link>
+git add <file> -A 
+git rm  --cached  <file>
+git commit -m 'text commit'
+git commit -am 'text commit'
+.gitkeep (файл для сохранения пустых директорий)
+.gitignore (файл для игнорируемых файлов)
+
+
